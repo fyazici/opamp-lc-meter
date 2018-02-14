@@ -152,7 +152,7 @@ U 1 1 5A6CA205
 P 3150 3800
 F 0 "J2" H 3200 4117 50  0000 C CNN
 F 1 "Conn_02x04_Counter_Clockwise" H 3200 4026 50  0000 C CNN
-F 2 "Package_DIP:DIP-8_W7.62mm_LongPads" H 3150 3800 50  0001 C CNN
+F 2 "Package_DIP:DIP-8_W7.62mm_Socket_LongPads" H 3150 3800 50  0001 C CNN
 F 3 "~" H 3150 3800 50  0001 C CNN
 	1    3150 3800
 	1    0    0    -1  
@@ -163,7 +163,7 @@ U 1 1 5A6CA2D2
 P 3150 4500
 F 0 "J3" H 3200 4817 50  0000 C CNN
 F 1 "Conn_02x04_Counter_Clockwise" H 3200 4726 50  0000 C CNN
-F 2 "Package_DIP:DIP-8_W7.62mm_LongPads" H 3150 4500 50  0001 C CNN
+F 2 "Package_DIP:DIP-8_W7.62mm_Socket_LongPads" H 3150 4500 50  0001 C CNN
 F 3 "~" H 3150 4500 50  0001 C CNN
 	1    3150 4500
 	1    0    0    -1  
